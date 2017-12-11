@@ -1,0 +1,11 @@
+{
+  "jvm": {
+    "application_name": "app-name",
+    "latest_version": "1.5.8",
+    "archive": "application-1.5.8",
+    "location": "https://download.com/application/jvm/",
+    "changelog": "Changes since the last version",
+    "hash": "asdfg45323",
+    "signature": "dsafg345"
+  }
+}
